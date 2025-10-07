@@ -1,4 +1,4 @@
-module github.com/agentflare-ai/muid
+module github.com/agentflare-ai/go-muid
 
 go 1.24.5
 

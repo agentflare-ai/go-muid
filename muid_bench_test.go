@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/agentflare-ai/muid"
+	"github.com/agentflare-ai/go-muid"
 	"github.com/aidarkhanov/nanoid/v2"
 	"github.com/google/uuid"
 	"github.com/oklog/ulid/v2"
